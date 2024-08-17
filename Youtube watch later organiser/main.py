@@ -9,7 +9,7 @@ from googleapiclient.discovery import build
 from urllib.parse import urlparse
 
 
-api_key = "AIzaSyAzE0VS2gw6qGJrTviv-SYN66wPEtgMouY"
+api_key = "use-your-api-key" #go to googlepythonapiclient
 
 
 def get_clipboard():
